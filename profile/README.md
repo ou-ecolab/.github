@@ -6,3 +6,5 @@ To get an overview how the different components work together go to  the repo co
 Nethertheless the parts depend on each other, so that an installation that is guaranteed to work will have to coordinate 
 changes to different repositories. 
 This task is assumed by an [umbrella repo](https://github.com/ou-ecolab/ecopad) that contains the contributing repos as git [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+
+[Yuans repo](https://github.com/YuanGao-NAU/ecopad_document)
